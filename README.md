@@ -14,7 +14,7 @@ My Github 是一款 Android 版 GitHub 客户端，基于 GitHub OAuth 实现账
 
 APK 安装包位于仓库 APK/ 目录，下载后安装（需允许"安装未知来源应用"）。
 
-当前版本：v1.0.0
+当前版本：v1.0.1
 
 ## 技术栈
 
